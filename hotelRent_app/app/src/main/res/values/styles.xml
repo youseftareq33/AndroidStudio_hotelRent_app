@@ -1,0 +1,11 @@
+<resources>
+    <style name="RedCheckBoxStyle" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:buttonTint">@color/red</item>
+    </style>
+
+    <style name="RedButtonStyle" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/custom_button_background_red</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+</resources>

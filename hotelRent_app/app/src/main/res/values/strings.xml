@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">hotelRentSystem</string>
+
+    <string-array name="cities_array">
+        <item>Nablus</item>
+        <item>Rammallah</item>
+        <item>Gaza</item>
+    </string-array>
+
+    <string-array name="night_cost_array">
+        <item>100</item>
+        <item>500</item>
+        <item>50</item>
+    </string-array>
+
+    <string-array name="stars_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+
+
+</resources>

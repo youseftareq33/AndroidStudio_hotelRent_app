@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "524680766568",
+    "project_id": "hotelrentsystem",
+    "storage_bucket": "hotelrentsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524680766568:android:c689ae3a2393df90da07dd",
+        "android_client_info": {
+          "package_name": "com.example.hotelrentsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524680766568-bfm17i7qel7odri4karta6mu9m1nis4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEXACnCYjZGRV7NxOTkE_pqDjr8_VCEJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524680766568-bfm17i7qel7odri4karta6mu9m1nis4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
